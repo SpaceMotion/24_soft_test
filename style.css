@@ -1,0 +1,9 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__header-column, .table__data {
+    border: 1px solid black;
+    width: 16.6%;
+}
